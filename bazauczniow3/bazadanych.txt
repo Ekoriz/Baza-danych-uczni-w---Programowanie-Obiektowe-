@@ -1,0 +1,7 @@
+ID , Imie , Nazwisko , Klasa , Wiek , Dyscyplina
+234182,default,uczen,Mateusz,Szczyrek,1A,23,Koszykówka,
+124765,default,uczen,Adam,Nowak,1C,23,Koszykówka,
+124765,default,uczen,Adam,Kowalski,1D,23,Piłka Nożna,
+134758,default,uczen,Zbigniew,Łokietek,3B,25,Bieganie,
+543777,default,uczen,Kacper ,Nowak,2A,24,Koszykówka,
+632823,default,uczen,Adam,Nowak,1F,32,Piłka Nożna,
